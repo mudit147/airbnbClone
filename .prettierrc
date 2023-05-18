@@ -1,0 +1,7 @@
+{
+  "trailingComma": "none",
+  "htmlWhitespaceSensitivity": "ignore",
+  "bracketSameLine": true,
+  "singleAttributePerLine": true,
+  "printWidth": 100
+}
