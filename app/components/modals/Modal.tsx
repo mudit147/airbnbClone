@@ -160,7 +160,7 @@ const Modal: React.FC<ModalProps> = ({
                     w-full
                   ">
                   {secondaryAction && secondaryActionLabel && (
-                    <Button  
+                    <Button
                       disabled={disabled}
                       label={secondaryActionLabel}
                       onClick={handleSecondaryAction}
